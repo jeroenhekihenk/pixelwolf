@@ -8,6 +8,7 @@
 	<title>Pixelwolf</title>
 	<link rel="icon" href="{!! url('favicon.ico') !!}" type="image/ico" />
 	<link rel="shortcut icon" href="{!! url('favicon.ico') !!}" type="image/ico" />
+	<link href="https://fonts.googleapis.com/css?family=Questrial|Quicksand" rel="stylesheet">
 	<link rel="stylesheet" href="{!! url('css/bootstrap.min.css') !!}">
 	<link rel="stylesheet" href="{!! url('css/bootstrap-theme.min.css') !!}">
 	<link rel="stylesheet" href="{!! url('css/reset.css') !!}">
